@@ -5,3 +5,4 @@ In this project, we have created an asynchronous webapp that uses external Web A
 ## Extras
 * The API '/save' is used to store the user data and external web API data to the server.
 * The API '/fetch' is used to fetch the details from the server to the front end to be displayed in the UI.
+* Currently only zipcodes from IN(India) is being accepted.
